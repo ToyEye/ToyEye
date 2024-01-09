@@ -1,4 +1,3 @@
-
 <p align="center"># 🏠 Hello👋, my name is Oleksii 😄</p>
 ### I have been working with frontend since 2021, and I mentioned other people
 
