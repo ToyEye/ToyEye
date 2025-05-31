@@ -5,7 +5,7 @@
 ## 📲 My Links
 
 - 🎨 My latest project is [Money counter](https://money-counter-nine.vercel.app)
-- 💻 Check my own site [Portfolio](https://www.loom.com/share/74091e1598354339be71d7cb65e946eb)
+
 
 ## 💡 About Me
 
